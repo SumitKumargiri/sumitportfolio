@@ -1,7 +1,5 @@
 # portfolio_web with responsive                     
 
-                                        <iframe width="560" height="315" src="https://sumitkumargiri.github.io/sumitportfolio/" frameborder="0" allowfullscreen></iframe>
-
 Welcome to my portfolio website! I'm excited to present my journey as a skilled web developer. Through lines of code and pixels on the screen, I bring ideas to life in the digital realm.
 
 As a passionate web developer, I've had the privilege of crafting virtual experiences that seamlessly blend aesthetics and functionality. My portfolio showcases a collection of projects that highlight my expertise in front-end and back-end development.
